@@ -4,7 +4,6 @@
 @import './__lang-link/_active/header__lang-link_active.css';
 @import './__item-lang/header__item-lang.css';
 
-
 .header {
   display: flex;
   justify-content: space-between;
