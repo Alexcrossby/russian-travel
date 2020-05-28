@@ -6,12 +6,11 @@
   max-width: 720px;
   margin: 0;
 }
-@media screen and (max-width: 780px) {
+
+@media (max-width: 780px) {
   .lead__title {
-    font-size: 96px;
+    font-size: calc(12vw);
     line-height: normal;
-    margin-left: 24px;
-    margin-right: 24px;
   }
 }
 
