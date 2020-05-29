@@ -12,7 +12,6 @@
   .lead__subtitle {
     font-size: calc(4vw);
     line-height: normal;
-    max-width: 80%;
   }
 }
 
