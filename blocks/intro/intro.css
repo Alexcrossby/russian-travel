@@ -8,7 +8,7 @@
   margin: auto;
   padding: 95px 148px 0;
   color: #FFFFFF;
-  font-family: 'Inter';
+  font-family: 'Inter',sans-serif;
 }
 
 @media screen and (max-width: 1024px) {

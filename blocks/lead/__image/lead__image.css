@@ -1,12 +1,6 @@
 .lead__image {
   width: 100%;
-  height: auto;
-  width: 100%;
-  max-width: 100%;
-  height: auto;
-  max-height: 554px;
-  object-fit: cover;
-  background-repeat: no-repeat;
+  max-height: 615px;
   margin-top: 64px;
 }
 
