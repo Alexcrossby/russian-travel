@@ -4,16 +4,16 @@
   line-height: 36px;
   text-align: center;
   max-width: 640px;
-  margin: 32px 0 0;
+  width: 100%;
+  margin: 0 auto;
+}
 }
 
-
-
-@media screen and (max-width: 425px) {
+@media (max-width: 450px) {
   .lead__subtitle {
-    margin: 22px 16px 0;
+    margin: 22px 0 0;
     font-size: 16px;
     line-height: 20px;
-    max-width: 65%;
+
   }
 }
